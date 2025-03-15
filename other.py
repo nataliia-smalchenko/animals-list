@@ -5,6 +5,7 @@
 import json
 
 class Animal:
+    """Клас для тварин"""
     def __init__(self, age: int, species: str):
         self.age = age
         self.species = species
