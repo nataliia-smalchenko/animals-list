@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Martha",
+    "age": 5,
+    "species": "Змія",
+    "owner": "Nick"
+  },
+  {
+    "name": "Turtle",
+    "age": 5,
+    "species": "Кіт",
+    "owner": "-"
+  },
+  {
+    "name": "Піт",
+    "age": 5,
+    "species": "Пташка",
+    "owner": "Боб"
+  }
+]
